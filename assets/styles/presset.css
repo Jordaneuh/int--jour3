@@ -1,0 +1,17 @@
+:root{
+    --bleu: #334DAE;
+    --blanc: #F0F0F0;
+    --orange: #FD3F29;
+}
+
+.bg-bleu{
+    background-color: var(--bleu);
+}
+
+.bg-blanc{
+    background-color: var(--blanc);
+}
+
+.bg-orange{
+    background-color: var(--orange);
+}
